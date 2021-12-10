@@ -1,0 +1,13 @@
+'hard' peso 3
+'medium' peso 2
+'easy' peso 1
+
+errrou não faz nada
+
+se a pessoa acertou
+score += 10 + time*dificult;
+assertions += 1;
+
+score[15 0 25].hof para somar
+assertions[1, 2, 3], assertions.lenght
+
